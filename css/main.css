@@ -36,8 +36,9 @@ nav a {
 }
 
 nav a:hover {
-  color: #b42885
+  color: #b42885;
   text-decoration: underline;
+  text-transform: uppercase;
 }
 
 .intro {
